@@ -8,3 +8,5 @@
 ### Tools & utilities :
 
 1. XAMPP
+2. Git
+3. Composer
